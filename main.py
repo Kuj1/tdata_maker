@@ -1,5 +1,3 @@
-from curses.ascii import CR
-from sys import api_version
 from opentele.td import TDesktop
 from opentele.tl import TelegramClient
 from opentele.api import API, UseCurrentSession, CreateNewSession
